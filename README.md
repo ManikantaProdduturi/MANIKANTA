@@ -1,3 +1,3 @@
-# MANIKANTA
+# firsr repo
 
 First Lab done
