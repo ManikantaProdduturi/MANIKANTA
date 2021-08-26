@@ -1,3 +1,3 @@
 # MANIKANTA
 
-First Lab Done
+First Lab done
